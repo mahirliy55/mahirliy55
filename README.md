@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Yusif
 - I'm a frontend developer
-- Skils: HTML / CSS / SASS / Material UI / Bootstrap / JS / JQuery / React JS/ Redux / Next.Js / Python / Docker-Compose / MySql
+- Skils: HTML / CSS / SASS / Material UI / Bootstrap / JS / JQuery / React JS/ React Native/ Redux / Next.Js / Python / Docker-Compose / MySql
 - Check it if you want to contact me. EMail: mahirliy55@gmail.com
 <p align="center">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
