@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Yusif
 - I'm a frontend developer
-- Skils: HTML / CSS / SASS / Material UI / Bootstrap / JS / Dart / Flutter / JQuery / React JS/ React Native/ Redux / Next JS / GraphQL / Python / Docker-Compose / MySQL
+- Skils: HTML / CSS / SASS / Material UI / Bootstrap / JS / TS / Dart / Flutter / JQuery / React JS/ React Native/ Redux / Next JS / GraphQL / Python / Docker-Compose / MySQL
 - Check it if you want to contact me. EMail: yusifspain@gmail.com
 <p align="center">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
