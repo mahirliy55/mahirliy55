@@ -19,8 +19,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusif123&layout=compact&langs_count=6&theme=radical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusif123&theme=radical)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yusif123&theme=react-dark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusif123&theme=algolia&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
