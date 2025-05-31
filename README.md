@@ -48,7 +48,7 @@
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusif123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yusif123](https://www.linkedin.com/in/yusif-jabrayilov/))
 
 - [Email](mailto:yusifspain@gmail.com)
 - [Instagram](https://www.instagram.com/thejabrael/profilecard/?igsh=MTVmaXJqcW94cHpibA==)
