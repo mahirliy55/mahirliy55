@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yusif</h1>
-<h3 align="center">A passionate Frontend Developer from Spain 🇪🇸</h3>
 
 ---
 
