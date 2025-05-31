@@ -20,8 +20,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working as a **Frontend Developer**  
-- 🛠️ Technologies: **React**, **Next.js**, **React Native**, **TypeScript**  
+- 🔭 I’m currently working as a **Frontend and Mobile Developer**  
+- 🛠️ Technologies: **React**, **Next.js**, **React Native**, **TypeScript**, **Angular**, **Vue.js**
 - 🌱 Currently learning more about **mobile development** and **clean architecture**  
 - 📍 Living in **Spain**, originally from **Azerbaijan**  
 - 💬 Ask me about **frontend development** or **React ecosystem**  
@@ -31,8 +31,8 @@
 
 ### 📫 Contact Me
 
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/yusif-jabrayilov/)  
+- [Email](mailto:yusifspain@gmail.com)
 
 ---
 
