@@ -1,20 +1,39 @@
-- 👋 Hi, My name is Yusif
-- I'm a frontend developer
-- Skils: HTML / CSS / SASS / Material UI / Bootstrap / JS / TS / Dart / Flutter / JQuery / React JS/ React Native/ Redux / Next JS / GraphQL / Python / Docker-Compose / MySQL
-- Check it if you want to contact me. EMail: yusifspain@gmail.com
-<p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-<!--   <img src="https://camo.githubusercontent.com/512f4e64a61e84df98608388a5764468297bc450a271855870f59edb1718016a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a72663773494e616e4a334b574c515144652f67697068792e676966" width="100"> -->
-  <img src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" width="100">
+<h1 align="center">Hi 👋, I'm Yusif</h1>
+<h3 align="center">A passionate Frontend Developer from Spain 🇪🇸</h3>
+
+---
+
+### 💻 Technologies I Work With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,firebase,git,github" />
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yusif-jabrayilov-105804204/)  
-![Yusif's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusif123&show_icons=true&theme=radical)
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mahirliy55&theme=gotham'/>
-## 📊 GitHub Stats
+---
 
+### 📊 GitHub Stats
+
+![Yusif's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusif123&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusif123&layout=compact&theme=radical)
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working as a **Frontend Developer**  
+- 🛠️ Technologies: **React**, **Next.js**, **React Native**, **TypeScript**  
+- 🌱 Currently learning more about **mobile development** and **clean architecture**  
+- 📍 Living in **Spain**, originally from **Azerbaijan**  
+- 💬 Ask me about **frontend development** or **React ecosystem**  
+- 🎯 Goal: Contribute to open source & grow as a full-stack dev
+
+---
+
+### 📫 Contact Me
+
+- [LinkedIn](https://linkedin.com/in/your-profile)  
+- [Email](mailto:your-email@example.com)
+
+---
 
