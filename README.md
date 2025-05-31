@@ -50,7 +50,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/yusif-jabrayilov/)  
 - [Email](mailto:yusifspain@gmail.com)
-- [Email](mailto:yusifspain@gmail.com)
+- [Instagram](mailto:yusifspain@gmail.com)
 
 ---
 
