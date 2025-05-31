@@ -14,3 +14,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yusif-jabrayilov-105804204/)  
 ![Yusif's github stats](https://github-readme-stats.vercel.app/api?username=mahirliy55&count_private=true&show_icons=true&theme=gotham)
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mahirliy55&theme=gotham'/>
+## 📊 GitHub Stats
+
+![Yusif's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusif123&show_icons=true&theme=radical)
