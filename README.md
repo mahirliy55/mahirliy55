@@ -29,7 +29,6 @@
 
 ![Keyboard cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-![This is fine](https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif)
 
 
 
