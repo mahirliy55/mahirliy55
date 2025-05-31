@@ -19,6 +19,18 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusif123&layout=compact&langs_count=6&theme=radical)
 
+### 🌟 Featured Projects
+
+- 🔗 [Deniz Taksi Mobil App](https://github.com/yusif123/deniz-taksi)
+  > React Native ile geliştirilen simülasyon projesi
+
+- 🔗 [FileLock Drive UI](https://github.com/yusif123/filelock-drive)
+  > Modern UI ile drive yönetimi (Next.js + Tailwind)
+
+- 🔗 [Web Unisyn Landing](https://github.com/yusif123/web-unisyn)
+  > Hızlı, duyarlı landing page tasarımı
+
+
 
 
 
