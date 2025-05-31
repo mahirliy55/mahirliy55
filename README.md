@@ -48,13 +48,10 @@
 
 ### 📫 Connect with me
 
-### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusif-jabrayilov/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusifspain@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thejabrael/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusif-jabrayilov)
-
-
-- [Email](mailto:yusifspain@gmail.com)
-- [Instagram](https://www.instagram.com/thejabrael/profilecard/?igsh=MTVmaXJqcW94cHpibA==)
 
 ---
 
