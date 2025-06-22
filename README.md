@@ -21,7 +21,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahirliy55&theme=radical&cache_buster=20250622)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahirliy55&theme=onedark&cache_buster=20250622)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mahirliy55&theme=radical&cache_buster=20250622)](https://git.io/streak-stats)
 
 
 
