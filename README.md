@@ -42,13 +42,13 @@
 
 ### 🚀 About Me
 
-- I’m currently working as a Frontend and Mobile Developer  
-- Technologies: React, Next.js, React Native, TypeScript, Angular, Vue.js  
-- Currently learning more about mobile development and clean architecture  
-- Living in Spain, originally from Azerbaijan  
-- Ask me about frontend development or React ecosystem  
-- Goal: Contribute to open source & grow as a full-stack dev  
-- Co-Founder of Quberts Technologies  
+🔭 I’m currently working as a Frontend and Mobile Developer  
+🛠️ Technologies: React, Next.js, React Native, TypeScript, Angular, Vue.js  
+🌱 Currently learning more about mobile development and clean architecture  
+📍 Living in Spain, originally from Azerbaijan  
+💬 Ask me about frontend development or React ecosystem  
+🎯 Goal: Contribute to open source & grow as a full-stack dev  
+🏢 Co-Founder of Quberts Technologies  
 
 ---
 
