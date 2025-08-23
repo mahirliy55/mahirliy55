@@ -2,9 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Yusif%20Jabrayilov&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38"/>
 </div>
 
-<div align="center">
-    <img src="https://safecircle.sirv.com/Images/Asset%205%404x.png?format=original&q=100"/>
-</div>
+
+### 💻 Technologies I Work With
+
+<div style="display:flex,flexDirection:"column">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,firebase,git" />
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50">
+</p>
+
+
 
 
 <div align="center">
@@ -15,14 +23,9 @@
 
 ---
 
-### 💻 Technologies I Work With
-
-<div style="display:flex,flexDirection:"column">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,firebase,git" />
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50">
-</p>
+<div align="center">
+    <img src="https://safecircle.sirv.com/Images/Asset%205%404x.png?format=original&q=100"/>
+</div>
 
 ---
 
