@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Yusif%20Jabrayilov&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38"/>
 </div>
 
-<div align="center">
+
   <img src="https://drive.google.com/uc?id=1EBs5E2E1TRPAjXYkdJX3Axja3y2HXlvR" width="300" />
-</div>
+
 
 
 <div align="center">
