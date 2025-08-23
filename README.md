@@ -25,7 +25,7 @@
 
 ---
 
-<div align="center" style={{backgroundColor:"white"}}>
+<div align="center">
     <img src="https://safecircle.sirv.com/Images/Asset%205%404x.png?format=original&q=100"/>
 </div>
 
