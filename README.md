@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdiev003&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile-views" />
-</p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Yusif%20Jabrayilov&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38"/>
@@ -74,4 +72,8 @@
 
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdiev003&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile-views" />
+</p>
 
