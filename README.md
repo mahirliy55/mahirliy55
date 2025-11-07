@@ -14,7 +14,7 @@
 ### 💻 Technologies I Work With
 
 <div style="display:flex,flexDirection:"column">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,reactnative,flutter,nextjs,nuxtjs,ts,js,html,css,tailwind,redux,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,swift,flutter,nextjs,nuxtjs,ts,js,html,css,tailwind,redux,firebase,git" />
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50">
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50">
