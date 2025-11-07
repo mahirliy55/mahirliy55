@@ -11,7 +11,7 @@
 </div>
 
 
-### 💻 Technologies I Work With
+###  Technologies I Work With
 
 <div style="display:flex,flexDirection:"column">
   <img src="https://skillicons.dev/icons?i=react,angular,vue,swift,flutter,nextjs,nuxtjs,ts,js,html,css,tailwind,redux,firebase,git" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![Yusif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahirliy55&show_icons=true&theme=radical&cache_buster=20250621)
 
