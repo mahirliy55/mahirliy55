@@ -30,15 +30,6 @@
 
 ---
 
-###  GitHub Stats
-
-![Yusif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahirliy55&show_icons=true&theme=radical&cache_buster=20250621)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirliy55&layout=compact&langs_count=6&theme=radical&cache_buster=20250621)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahirliy55&theme=radical&cache_buster=20250621)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahirliy55&theme=onedark&cache_buster=20250621)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
