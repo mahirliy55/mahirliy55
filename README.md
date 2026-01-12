@@ -31,15 +31,6 @@
 ---
 
 
-
-
-
-
-
-
-
----
-
 ###  About Me
 
 - I’m currently working as a Frontend and Mobile Developer  
